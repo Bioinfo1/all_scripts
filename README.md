@@ -1,2 +1,2 @@
-all_scripts
+Perl scripts
 ===========
